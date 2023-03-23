@@ -1,3 +1,5 @@
+![лето](https://user-images.githubusercontent.com/110192173/227352355-8b8e6360-f7b2-4292-bf20-1c2909b146d9.png)
+
 # Chellick
 
 Also known as:
