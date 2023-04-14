@@ -1,4 +1,4 @@
-![лето](https://user-images.githubusercontent.com/110192173/227352355-8b8e6360-f7b2-4292-bf20-1c2909b146d9.png)
+![anime city wallpaper](https://user-images.githubusercontent.com/110192173/232150637-eea405a6-45a9-4535-8961-1bd7082fa8f7.jpg)
 
 # Chellick
 
