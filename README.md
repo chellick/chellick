@@ -1,4 +1,4 @@
-![anime city wallpaper](https://user-images.githubusercontent.com/110192173/232150637-eea405a6-45a9-4535-8961-1bd7082fa8f7.jpg)
+[image](https://github.com/chellick/chellick/assets/110192173/c6a75e12-4cae-49ae-9fdf-6a12a844eaa3)
 
 # Chellick
 
