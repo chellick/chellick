@@ -1,4 +1,7 @@
-<img src="https://media.tenor.com/HKuZtdFSqykAAAAC/baki-gaming.gif" />
+
+
+![notion jpg](https://github.com/chellick/chellick/assets/110192173/cc0abff4-fa75-4cf4-94f0-e2ad65252794)
+
 
 # Chellick
 
