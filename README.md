@@ -7,7 +7,7 @@
 
 
 IT class student, planning to enroll in BMSTU. 
-Beginner of Machine Learning, Data Science and analysis direction.
+Beginner of ML, DS and DA direction.
 
 ## Contacts
 
