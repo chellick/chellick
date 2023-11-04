@@ -6,7 +6,7 @@
 # Chellick
 
 
-IT class student, planning to enroll in BMSTU. 
+IT class student, planning to enroll in ITMO (HSE). 
 Beginner of ML, DS and DA direction.
 
 ## Contacts
