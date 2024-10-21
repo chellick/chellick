@@ -1,13 +1,14 @@
 
 
-![notion jpg](https://github.com/chellick/chellick/assets/110192173/cc0abff4-fa75-4cf4-94f0-e2ad65252794)
 
 
 # Chellick
 
 
-IT class student, planning to enroll in ITMO (HSE). 
-Beginner of ML, DS and DA direction.
+IT class student, CU student. 
+MLops, Devops, etc..
+
+TODO: красоту навести чтоб было
 
 ## Contacts
 
