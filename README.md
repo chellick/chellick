@@ -4,9 +4,11 @@
 
 # Chellick
 
+[![Chellick's GitHub stats](https://github-readme-stats.vercel.app/api?username=chellick)](https://github.com/chellick/github-readme-stats)
 
-IT class student, CU student. 
-MLops, Devops, etc..
+
+CU student. 
+MLops, Devops, DL engineer, etc..
 
 TODO: красоту навести чтоб было
 
