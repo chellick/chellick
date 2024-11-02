@@ -4,7 +4,7 @@
 
 # Chellick
 
-[![Chellick's GitHub stats](https://github-readme-stats.vercel.app/api?username=chellick)](https://github.com/chellick/github-readme-stats)
+[![Chellick's GitHub stats](https://github-readme-stats.vercel.app/api?username=chellick)](https://github.com/chellick/github-readme-stats&theme=gotham&show_icons=true)
 
 
 CU student. 
