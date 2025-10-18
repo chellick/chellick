@@ -1,3 +1,2 @@
-Hello! I am chellick - ML-Engineer \ Data Scientist at T-bank + Central University. Currently developing MLOPS skills.
+Hello! I am chellick - ML-Engineer in RnD lab at MIPT. Currently developing CV, MLOps skills
 
-https://chellick.github.io/chellick-website/
