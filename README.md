@@ -1,2 +1,2 @@
-Hello! I am chellick - ML-Engineer in RnD lab at MIPT. Currently developing CV, MLOps skills
+Hello! I am chellick - CV engineer at SBER.
 
