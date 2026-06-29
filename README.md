@@ -1,2 +1,2 @@
-Hello! I am chellick - CV engineer at SBER.
+Hello! I am chellick - CV researcher at SBER.
 
